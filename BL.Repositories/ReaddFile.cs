@@ -18,8 +18,7 @@ namespace BL.Repositories
                 s = sr.ReadLine();
 
                 string[] str = s.Split(',');
-
-                //because the first line is header
+              
 
                 var student = new Student();
                 student.Type = str[0].ToLower().ToString();
