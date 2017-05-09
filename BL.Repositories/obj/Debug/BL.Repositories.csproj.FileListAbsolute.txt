@@ -1,0 +1,7 @@
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Repositories\bin\Debug\BL.Repositories.dll
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Repositories\bin\Debug\BL.Repositories.pdb
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Repositories\bin\Debug\BL.Models.dll
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Repositories\bin\Debug\BL.Models.pdb
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Repositories\obj\Debug\BL.Repositories.csprojResolveAssemblyReference.cache
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Repositories\obj\Debug\BL.Repositories.dll
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Repositories\obj\Debug\BL.Repositories.pdb

@@ -1,0 +1,5 @@
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Models\bin\Debug\BL.Models.dll
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Models\bin\Debug\BL.Models.pdb
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Models\obj\Debug\BL.Models.csprojResolveAssemblyReference.cache
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Models\obj\Debug\BL.Models.dll
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\BL.Models\obj\Debug\BL.Models.pdb

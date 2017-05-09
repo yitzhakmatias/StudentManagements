@@ -1,0 +1,10 @@
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\bin\Debug\BL.Models.dll
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\bin\Debug\BL.Repositories.dll
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\bin\Debug\BL.Models.pdb
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\bin\Debug\BL.Repositories.pdb
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+c:\users\ymatias\documents\visual studio 2013\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
